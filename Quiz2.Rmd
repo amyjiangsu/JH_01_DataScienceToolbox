@@ -1,9 +1,9 @@
 ---
-title: "Quiz2"
+title: "Quiz 2"
 author: "Amy Su Jiang"
 output: html_document
 ---
-
+<style>answer {color: coral; font-size:0.9em; }</style><br />
 
 ### Question 1
 
@@ -16,6 +16,8 @@ Which of the following commands will create a directory called data in your curr
     mkdir /Users/data 
     
     touch data 
+
+<pre><answer>mkdir data </answer></pre><br />  
 
 
 ### Question 2
@@ -30,6 +32,8 @@ Which of the following will initiate a git repository locally?
     
     git merge 
 
+<pre><answer>git init</answer></pre><br />  
+
 
 ### Question 3
 
@@ -42,6 +46,8 @@ Suppose you have forked a repository called datascientist on Github but it isn't
     git pull datascientist master 
     
     git pull https://github.com/username/datascientist.git 
+
+<pre><answer>git clone https://github.com/username/datascientist.git</answer></pre><br />  
 
 
 ### Question 4
@@ -78,6 +84,13 @@ Which of the following will create a markdown document with a secondary heading 
     * Nine courses 
     * Goes from raw data to data products 
 
+<pre><answer>## Data Science Specialization 
+
+* Uses R 
+* Nine courses 
+* Goes from raw data to data products 
+</answer></pre><br />  
+
 
 ### Question 5
 
@@ -91,7 +104,7 @@ Install and load the KernSmooth R package. What does the copyright message say?
     
     Copyright M. P. Wand 1997-2009 
 
-
+<pre><answer>Copyright M. P. Wand 1997-2009</answer></pre><br />  
 
 
 
