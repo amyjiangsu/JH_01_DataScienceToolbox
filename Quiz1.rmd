@@ -15,7 +15,7 @@ Which of the following are courses in the Data Science Specialization? Select al
     The Elements of Statistical Learning
 
 <pre><answer>Regression Models
-Exploratory Data Analysis </answer></pre><br />
+Exploratory Data Analysis</answer></pre><br />
 
 ### Question 2
 
@@ -38,7 +38,7 @@ What are good ways to find answers to questions in this course track? Select all
     Looking through R help files.
     Searching Stack Overflow
 
-<pre><answer>Emailing the community TAs
+<pre><answer>Searching Stack Overflow
 Looking through R help files.</answer></pre><br />
 
 ### Question 4

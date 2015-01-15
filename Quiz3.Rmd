@@ -14,7 +14,7 @@ We take a random sample of individuals in a population and identify whether they
     This is an example of a causal data analysis.
     This is an example of an inferential data analysis.
     
-<pre><answer>This is an example of a causal data analysis.</answer></pre><br />    
+<pre><answer>This is an example of an inferential data analysis.</answer></pre><br />    
 
 ### Question 2
 
